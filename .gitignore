@@ -1,4 +1,3 @@
 .venv/
 .ipynb_checkpoints/
-trained_network.pkl
 __pycache__/
